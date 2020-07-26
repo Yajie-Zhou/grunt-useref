@@ -185,7 +185,7 @@ module.exports = function (grunt) {
 
     }
 
-    grunt.registerMultiTask('useref', 'Replaces references to non-minified scripts / stylesheets', function () {
+    grunt.registerMultiTask('useref_yj', 'Replaces references to non-minified scripts / stylesheets', function () {
 
         // Assumption is that we are now in a temp directory, so act accordingly
 
