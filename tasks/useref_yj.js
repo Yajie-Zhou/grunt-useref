@@ -107,7 +107,7 @@ module.exports = function (grunt) {
         var concat = grunt.config('concat') || {},
             uglify = grunt.config('uglify') || {},
             css = grunt.config('cssmin') || {},
-            temp = grunt.config('useref.temp');
+            temp = grunt.config('useref_yj.temp');
 
         // make certain to have a traling slash
         if (temp[-1] !== '/') {

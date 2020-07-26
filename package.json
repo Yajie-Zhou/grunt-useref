@@ -2,7 +2,7 @@
   "name": "grunt-useref-yj",
   "title": "Grunt Useref",
   "description": "Use build blocks to update the references in your html and perform file concatenation, minification, and cache busting.",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "homepage": "https://github.com/Yajie-Zhou/grunt-useref-zyj.git",
   "author": "Yajie-Zhou (Peter Ajtai)",
   "repository": {
