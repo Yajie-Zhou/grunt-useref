@@ -1,5 +1,5 @@
 {
-  "name": "grunt-useref-zyj",
+  "name": "grunt-useref-yj",
   "title": "Grunt Useref",
   "description": "Use build blocks to update the references in your html and perform file concatenation, minification, and cache busting.",
   "version": "0.0.17",
