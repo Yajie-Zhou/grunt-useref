@@ -145,7 +145,11 @@ module.exports = function (grunt) {
                      if (asset[0] === '/') {
                          asset = asset.substr(1);
                      }
-                     return temp + asset;
+                    if(asset.includes('node_modules')) {
+                        return asset;
+                    }else {
+                       return temp + asset;
+                    }
                  }
              }).reduce(function (a, b) {
                      b = ( b ? b.split(',') : '');

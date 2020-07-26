@@ -159,6 +159,7 @@ directory inside the `node_modules` folder of your project.
 
 ## Change Log
 
+* 0.0.17 - Jul 26, 2020 - Allow the files of node_modules to concat or uglify
 * 0.0.16 - Mar 01, 2013 - Allow empty lines and comments within build blocks for Grunt0.4.0
 * 0.0.15 - Feb 23, 2013 - Adding grunt 0.4.0 compatibility
 * 0.0.11 - Jan 03, 2013 - Making grunt log output a little less obnoxious.
